@@ -1,0 +1,15 @@
+[submodule "AN"]
+	path = AN
+	url = https://github.com/dhamma-initiative/AN.git
+[submodule "DN"]
+	path = DN
+	url = https://github.com/dhamma-initiative/DN.git
+[submodule "KN"]
+	path = KN
+	url = https://github.com/dhamma-initiative/KN.git
+[submodule "SN"]
+	path = SN
+	url = https://github.com/dhamma-initiative/SN.git
+[submodule "MN"]
+	path = MN
+	url = https://github.com/dhamma-initiative/MN.git
